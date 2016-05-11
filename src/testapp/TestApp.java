@@ -4,6 +4,8 @@ public class TestApp {
 
         System.out.println("Hello world");
         System.out.println("How are you?");
+        System.out.println("Is this a real life, is this just fanta sea?");
+        
         
         
     }
